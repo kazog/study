@@ -1,4 +1,3 @@
-html css javascript skill Statr
 
 # 简介
  
